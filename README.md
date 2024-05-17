@@ -14,7 +14,7 @@ This project is an Instagram clone built using React Native with Expo. It utiliz
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/instagram-clone.git
+    git clone https://github.com/Abhinav1326/Instagram-clone.git
     ```
 
 2. Install dependencies:
